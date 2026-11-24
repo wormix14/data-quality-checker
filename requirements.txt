@@ -1,0 +1,7 @@
+aiogram
+azure-identity
+deltalake
+great-expectations
+pandas
+pyarrow
+python-dotenv
